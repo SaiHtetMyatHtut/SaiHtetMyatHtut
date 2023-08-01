@@ -5,8 +5,8 @@
 A T-Shaped Software Engineer Highly Specialized in Mobile Development and A Microsoft Certified Solution Expert. Love Exploring New Technologies and a Self-Learner. I Have Combo Skillsets in Microsoft T-SQL and it's Server Management, Python (Flask, FastAPI), Native Android and Flutter. When it Comes to Web Projects, I Love Using SvelteKit and Tailwindcss. I Have Worked in a Redhat Environment and Familiar with Linux Server Management.
 
 <br>
-<div align="center">
   <img src="https://www.codewars.com/users/PotatoNemo/badges/large">
+<div align="center">
 </div>
 <p>
 <div align="center">
