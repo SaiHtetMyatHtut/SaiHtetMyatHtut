@@ -18,6 +18,7 @@ A T-Shaped Software Engineer Highly Specialized in Mobile Development and A Micr
   <img src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=3DDC84&labelColor=fff">
   <img src="https://img.shields.io/badge/-Redhat-EE0000?style=for-the-badge&logo=redhat&logoColor=EE0000&labelColor=fff">
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=fff">
+  <img src="https://img.shields.io/badge/-3 Kyu-B1361E?style=for-the-badge&logo=codewars&logoColor=B1361E&labelColor=fff">
 </div>
 </p>
 
