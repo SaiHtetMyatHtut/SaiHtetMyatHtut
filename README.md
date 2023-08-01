@@ -8,7 +8,12 @@ A T-Shaped Software Engineer Highly Specialized in Mobile Development and A Micr
 
 <p>
 <div align="center">
-  <img src="https://img.shields.io/badge/-tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=fff">
+  <img src="https://img.shields.io/badge/-Tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=fff">
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=02569B&labelColor=fff">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=fff">
+  <img src="https://img.shields.io/badge/-Fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=009688&labelColor=fff">
+  <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=Flask&logoColor=000000&labelColor=fff">
+  <img src="https://img.shields.io/badge/-MicrosoftSQLServer-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927&labelColor=fff">
 </div>
 </p>
 
