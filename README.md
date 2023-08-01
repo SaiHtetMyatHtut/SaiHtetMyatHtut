@@ -1,11 +1,10 @@
 
 
 <div align="center">
-  <b>Sai Htet Myat Htut</b>
+  <h1>Sai Htet Myat Htut</h1>
 </div>
 
 <h1 align="center">
-  
   <img src="https://www.codewars.com/users/PotatoNemo/badges/large">
 </h1>
 
