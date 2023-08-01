@@ -5,8 +5,9 @@
 A T-Shaped Software Engineer Highly Specialized in Mobile Development and A Microsoft Certified Solution Expert. Love Exploring New Technologies and a Self-Learner. I Have Combo Skillsets in Microsoft T-SQL and it's Server Management, Python (Flask, FastAPI), Native Android and Flutter. When it Comes to Web Projects, I Love Using SvelteKit and Tailwindcss. I Have Worked in a Redhat Environment and Familiar with Linux Server Management.
 
 <br>
-<img src="https://img.shields.io/badge/-3 Kyu-02569B?style=for-the-badge&logo=codewars&logoColor=B1361E&labelColor=fff">
+<div align="center>
   <img src="https://www.codewars.com/users/PotatoNemo/badges/large">
+</div>
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/-Tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=fff">
@@ -19,7 +20,7 @@ A T-Shaped Software Engineer Highly Specialized in Mobile Development and A Micr
   <img src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=3DDC84&labelColor=fff">
   <img src="https://img.shields.io/badge/-Redhat-EE0000?style=for-the-badge&logo=redhat&logoColor=EE0000&labelColor=fff">
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=fff">
-  
+  <img src="https://img.shields.io/badge/-3 Kyu-02569B?style=for-the-badge&logo=codewars&logoColor=B1361E&labelColor=fff">
 </div>
 </p>
 
