@@ -1,3 +1,4 @@
+<img align="center" src="https://www.codewars.com/users/PotatoNemo/badges/large">
 <h1 align="center">
   <b>Sai Htet Myat Htut</b>
 </h1>
@@ -5,7 +6,6 @@
 A T-Shaped Software Engineer Highly Specialized in Mobile Development and A Microsoft Certified Solution Expert. Love Exploring New Technologies and a Self-Learner. I Have Combo Skillsets in Microsoft T-SQL and it's Server Management, Python (Flask, FastAPI), Native Android and Flutter. When it Comes to Web Projects, I Love Using SvelteKit and Tailwindcss. I Have Worked in a Redhat Environment and Familiar with Linux Server Management.
 
 <br>
-  <img align="center" src="https://www.codewars.com/users/PotatoNemo/badges/large">
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/-Tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=fff">
