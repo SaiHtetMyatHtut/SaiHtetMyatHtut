@@ -8,7 +8,7 @@ A T-Shaped Software Engineer Highly Specialized in Mobile Development and A Micr
 
 <p>
 <div align="center">
-  <img src="https://img.shields.io/badge/-tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=fff">
+  <img src="https://img.shields.io/badge/style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=fff">
 </div>
 </p>
 
